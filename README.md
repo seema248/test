@@ -1,2 +1,2 @@
 # test
-test Repo
+test Repo for initial command demonstriation
